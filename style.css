@@ -1,0 +1,117 @@
+body{
+ font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+margin:0;
+}
+h1{
+  font-size:5em;
+}
+.orange-color
+{
+ color:orange;
+}
+.flexiable
+{
+ display:flex;
+ /* margin-bottom:85%; */
+
+}
+.half-width
+{
+ width:50%;
+ padding:5%;
+}
+.half-width img
+{
+ width:80%;
+ padding:5%;
+ 
+}
+.button
+{
+ text-decoration:none;
+ background-image:linear-gradient(#ff5959 , #c04242 );
+ padding:10px 40px;
+ color:white;
+ border-radius:.5rem;
+ font-weight: 700; 
+}
+.my-mission
+{
+ text-align: center;
+ font-size: 4em;
+}
+.box
+{
+ width:150%;
+  padding-left:20px;
+  padding-right:20px;
+  margin-left: 5%;
+  margin-left: 5%;
+  border:1px solid;
+  border-radius:10px;
+  background-color: #ff5959;
+}
+.blur-img
+{
+ background-image:url(images/shape-1.png);
+ background-repeat:no-repeat;
+ background-size:20%;
+ background-position:left;
+}
+
+.second
+{
+  width:150%;
+  padding-left:20px;
+  padding-right:20px;
+  margin-left: 5%;
+  margin-left: 5%;
+  border:1px solid;
+  border-radius:10px;
+  background-color: #ff5959;
+}
+.third
+{
+   width:150%;
+  padding-left:20px;
+  padding-right:20px;
+  margin-left: 5%;
+  margin-left: 5%;
+  border:1px solid;
+  border-radius:10px;
+  background-color: #ff5959;
+  
+}
+.projects-one
+{
+ background-image:url(images/shape-1.png);
+ background-repeat: no-repeat;
+ background-size:25%;
+background-position: bottom 30px right 100px;
+}
+.app-image img
+{
+ width:480px;
+ height: auto;
+}
+.shape-3
+{
+ background-image:url(images/shape-3.png);
+ background-repeat:no-repeat;
+ background-size:15%;
+}
+footer{
+ background-color: black;
+ padding-top:40px;
+ padding-bottom:40px;
+ color:#6e8ca4;
+ text-align: center;
+}
+footer h2 
+{
+ color:white;
+}
+.red{
+ color:#c04242;
+}
