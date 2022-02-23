@@ -43,11 +43,11 @@ h1{
 }
 .box
 {
- width:150%;
+ width:80%;
   padding-left:20px;
   padding-right:20px;
-  margin-left: 5%;
-  margin-left: 5%;
+  margin-left: 10%;
+  margin-left: 10%;
   border:1px solid;
   border-radius:10px;
   background-color: #ff5959;
@@ -62,7 +62,7 @@ h1{
 
 .second
 {
-  width:150%;
+  width:80%;
   padding-left:20px;
   padding-right:20px;
   margin-left: 5%;
@@ -73,7 +73,7 @@ h1{
 }
 .third
 {
-   width:150%;
+   width:80%;
   padding-left:20px;
   padding-right:20px;
   margin-left: 5%;
